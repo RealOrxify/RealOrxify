@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RealOrxify
-- 👀 I’m interested in C# and Javascript
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Java and Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on anything gorilla tag-related
 - 📫 How to reach me
 
